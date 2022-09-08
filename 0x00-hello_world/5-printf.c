@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  * Decription: print with proper grammar, but the outcome is a piece of art,
- * retun: 0
+ * return: 0
  */
 
 int main(void)
