@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - entry point
- * decription: print with proper grammar, but the outcome is a piece of art,
+ * main - Entry point
+ * Decription: print with proper grammar, but the outcome is a piece of art,
  * retun: 0
  */
 
