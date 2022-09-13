@@ -2,11 +2,11 @@
 /**
  * main - Entry point
  * Description: using _putchar
- * Return: 1
+ * Return: 0
  */
 
 int main(void)
 {
-	write(1, "_putchar\n", 10);
-	return (1);
+	write(0, "_putchar\n", 9);
+	return (0);
 }
