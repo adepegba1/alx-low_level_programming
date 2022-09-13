@@ -4,9 +4,15 @@
  * Description: using _putchar
  * Return: 0
  */
-
-int main(void)
+int _putchar(char c)
 {
-	write(1, "_putchar\n", 9);
+	char word[8] = "_putchar";
+	int i;
+	for (i = 1; i <=8; i++)
+	
+	{
+	       	_putchar(word[i]);
+	}
+	_putchar('\n');
 	return (0);
 }
