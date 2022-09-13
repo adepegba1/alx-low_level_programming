@@ -1,13 +1,13 @@
 #include "main.h"
+
 /**
- *_islower - Entry point
+ *_islower - prints 1 or 0 depending on input
+ *@c: first parameter
  *Description: lower letter only
  *Return: 0
  */
 
 int _islower(int c)
 {
-	int i;
-
-	return (i >= 'a' && i <= 'z');
+	return (c >= 'a' && c <= 'z');
 }
