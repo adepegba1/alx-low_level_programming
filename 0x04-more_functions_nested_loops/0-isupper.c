@@ -3,9 +3,8 @@
 /*
  * _isupper - checking for upper character
  *
- * @c: character input
+ * @c: interger input
  *
- * Description: looking for uppercase
  *
  * Return: 1 if upper and 0 otherwise
  */
@@ -14,6 +13,9 @@ int _isupper(int c)
 {
 	int i;
 
-	return (islower(i));
-	else return (0);
+	if (i >= 'A' && i <= 'Z')
+	{
+		return (1);
+	}
+	return (0);
 }
