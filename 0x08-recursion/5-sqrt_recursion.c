@@ -23,7 +23,7 @@ int square(int n, int i)
   *
   *@n: number to fine square root
   *
-  *Retuern: square root of n
+  *Return: square root of n
   */
 int _sqrt_recursion(int n)
 {
