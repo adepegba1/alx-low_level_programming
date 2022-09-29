@@ -1,21 +1,6 @@
 #include "main.h"
 
 /**
-  *is_prime_number - prime number
-  *
-  *@n: value to check
-  *
-  *Return
-  */
-int primeCheck(int i, int j);
-int is_prime_number(int n)
-{
-	if (n == 2)
-		return (1);
-	return (primeCheck(2, n));
-}
-
-/**
   *primeCheck - checking if the number is prime number
   *
   *@i: factor check
@@ -32,4 +17,18 @@ int primeCheck(int i, int j)
 		return (1);
 	else
 		return (primeCheck(i + 1, j));
+}
+
+/**
+  *is_prime_number - prime number
+  *
+  *@n: value to check
+  *
+  *Return
+  */
+int is_prime_number(int n)
+{
+	if (n == 2)
+		return (1);
+	return (primeCheck(2, n));
 }
