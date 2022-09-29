@@ -5,9 +5,16 @@
   *
   *@n: value to check
   *
-  *Return
+  *primeCheck - checking if the number is prime number
+  *
+  *@i: factor check
+  *
+  *@j:posible prime
+  *
+  *Return: 1 if prime and 0 otherwise
   */
-int primeCheck(int i, int j);
+
+primeCheck(int i, int j);
 int is_prime_number(int n)
 {
 	if (n == 2)
@@ -15,15 +22,6 @@ int is_prime_number(int n)
 	return (primeCheck(2, n));
 }
 
-/**
-  *primeCheck - checking if the number is prime number
-  *
-  *@i: factor check
-  *
-  *@j: possible prime
-  *
-  *Return: 1 if prime and 0 otherwise
-  */
 int primeCheck(int i, int j)
 {
 	if (j < 2 || j % i == 0)
