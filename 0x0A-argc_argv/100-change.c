@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "holberton.h"
 
 /**
  * main - prints the minimum number of coins to
