@@ -9,7 +9,7 @@
   *
   *@height: outer loop
   *
-  *Return: pointer arrat of integer
+  *Return: pointer array of integer
   */
 int **alloc_grid(int width, int height)
 {
@@ -20,13 +20,13 @@ int **alloc_grid(int width, int height)
 	{
 		return (NULL);
 	}
-	gridOut = malloc(sizeof(int) * height);
+	gridOut = malloc(sizeof(int *) * height);
 	if (gridOut == NULL)
 	{
 		free(gridOut);
 		return (NULL);
 	}
-	for (i = 0; i <= height; i++)
+	for (i = 0; i < height; i++)
 	{
 		gridOut[i] = malloc(sizeof(int) * width);
 		if (gridOut[i] == NULL)
