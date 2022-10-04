@@ -8,6 +8,8 @@
   *@size: length of string
   *
   *@c: specific char to change
+  *
+  *Return: character
   */
 
 char *create_array(unsigned int size, char c)
@@ -20,13 +22,13 @@ char *create_array(unsigned int size, char c)
 		return ("NULL");
 	}
 
-	a = malloc (sizeof(int) * size);
+	a = malloc(sizeof(int) * size);
 
-	if ( a == NULL)
+	if (a == NULL)
 	{
 		return ("NULL");
 	}
-	else 
+	else
 	{
 		for (i = 0; i < size; i++)
 		{
@@ -34,5 +36,4 @@ char *create_array(unsigned int size, char c)
 		}
 		return (a);
 	}
-	
 }
