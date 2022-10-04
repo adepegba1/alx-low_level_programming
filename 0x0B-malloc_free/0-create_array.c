@@ -19,14 +19,14 @@ char *create_array(unsigned int size, char c)
 
 	if (size == 0)
 	{
-		return ("NULL");
+		return (NULL);
 	}
 
 	a = malloc(sizeof(c) * size);
 
 	if (a == NULL)
 	{
-		return ("NULL");
+		return (NULL);
 	}
 	else
 	{
