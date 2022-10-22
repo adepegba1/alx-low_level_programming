@@ -15,6 +15,12 @@
   - All your scripts should be exactly two lines long ($ wc -l file should print 2)
   - All your files should end with a new line
   - The first line of all your files should be exactly #!/bin/bash
+  
+ ## Read More
+ - [Everything you need to know to start with C.pdf](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2022/4/e0ccf91eec6b977a9e00ed384dc285df9c2772e3.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221022%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221022T125230Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=891cf63c8135eadef9f0b243198b5d3babd2d18d3b32827e7d65f104939113b3)
+ - [Why C Programming Is Awesome](https://www.youtube.com/watch?v=smGalmxPVYc)
+ - [Learning to program in C part 1](https://www.youtube.com/watch?v=rk2fK2IIiiQ)
+ - [Betty Coding Style](https://github.com/holbertonschool/Betty/wiki)
 # List of Task
 |Task| Description|
 |---|---|
