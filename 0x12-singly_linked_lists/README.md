@@ -1,5 +1,5 @@
 ## This project is all about the single linked lists. how to move from one list in a single way. It is a striaght forward movement from one list of node to another. the reason for linked list is that you can change the element of any list without touching the one before or after the element. It is much better than array because you cant change the middle element of the array without touching all the arrays
-## List Of Project
+# List Of Project
 |task| Description|
 |---|---|
 |0| Write a function that prints all the elements of a list_t list, **Prototype:** size_t print_list(const list_t *h); **Return:** the number of nodes Format: see example If str is NULL, print [0] (nil) **You are allowed to use printf**|
