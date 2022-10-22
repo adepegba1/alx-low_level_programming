@@ -14,6 +14,9 @@
 - The prototypes of all your functions and the prototype of the function _putchar should be included in your header file called lists.h
 - Don’t forget to push your header file
 - All your header files should be include guarded
+## Read more
+- [Data Structures](https://alx-intranet.hbtn.io/concepts/120)
+- [Youtube](https://www.youtube.com/results?search_query=linked+lists)
 # List Of Project
 |task| Description|
 |---|---|
