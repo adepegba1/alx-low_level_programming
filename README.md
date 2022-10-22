@@ -1,6 +1,15 @@
 ## In this folder, i will be doing different task to understand all concept in the programming language of C. All task are created by [@alx_africa](https://twitter.com/alx_africa)
 ## Table of content 
 - [0x00-hello_world](./0x00-hello_world)
+	- [0-preprocessor](0-preprocessor)
+	- [1-compiler](1-compiler)
+	- [2-assembler](2-assembler)
+	- [3-name](3-name)
+	- [4-puts.c](4-puts.c)
+	- [5-printf.c](5-printf.c)
+	- [6-size.c](6-size.c)
+	- [100-intel](100-intel)
+	- [101-quote.c](101-quote.c)
 - [0x01-variables_if_else_while](./0x01-variables_if_else_while)
 - [0x02-functions_nested_loops](./0x02-functions_nested_loops)
 - [0x03-debugging](./0x03-debugging)
@@ -20,5 +29,5 @@
 - [0x12-singly_linked_lists](./0x12-singly_linked_lists)
 
 ## Author
-- **Adeopegba David .A.**
+- **Adepegba David .A.**
 - *Twitter:* [@adepegbadavid1](https://twitter.com/adepegbadavid1)
