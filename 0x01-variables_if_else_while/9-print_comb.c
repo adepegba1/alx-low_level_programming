@@ -14,3 +14,20 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
+/*
+#include <stdio.h>
+
+int main() {
+   int i;
+    for (i = 0; i <= 9; i++)
+    {
+        putchar((i % 10) + '0');
+        if (i != 9)
+      { putchar(',');
+        putchar(' ');
+      }
+    }
+
+    return 0;
+}
+*/
