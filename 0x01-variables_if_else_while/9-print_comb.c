@@ -17,16 +17,18 @@ int main(void)
 }
 */
 
-int main(void) {
-   int i;
-    for (i = 0; i <= 9; i++)
-    {
-        putchar((i % 10) + '0');
-        if (i != 9)
-      { putchar(',');
-        putchar(' ');
-      }
-    }
+int main(void)
+{
+	int i;
 
-    return 0;
+	for (i = 0; i <= 9; i++)
+	{
+		putchar((i % 10) + '0');
+		if (i != 9)
+		{
+			putchar(',');
+			putchar(' ');
+		}
+	}
+	return (0);
 }
