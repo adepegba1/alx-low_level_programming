@@ -1,4 +1,4 @@
-## This is the introduction to C programming language with some task in it
+# This is the introduction to C programming language with some task in it
 ## Requirement for task
 - **C**
   - Allowed editors: vi, vim, emacs
