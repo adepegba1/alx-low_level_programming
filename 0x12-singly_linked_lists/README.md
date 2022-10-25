@@ -1,4 +1,5 @@
-## This project is all about the single linked lists. how to move from one list in a single way. It is a striaght forward movement from one list of node to another. the reason for linked list is that you can change the element of any list without touching the one before or after the element. It is much better than array because you cant change the middle element of the array without touching all the arrays
+# This project is all about the single linked lists.
+- How to move from one list in a single way. It is a striaght forward movement from one list of node to another. the reason for linked list is that you can change the element of any list without touching the one before or after the element. It is much better than array because you cant change the middle element of the array without touching all the arrays
 ## Requirement for Task
 - Allowed editors: vi, vim, emacs
 - All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
