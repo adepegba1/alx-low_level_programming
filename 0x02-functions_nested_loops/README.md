@@ -1,4 +1,4 @@
-## Functions and Nested loop project
+# Functions and Nested loop project
 - Function: is a group of statments that together perform a task. Every C program has at least one function. A function only has a main function before the code can work properly. A function declaration tells the compiler about a function name, return type and parameter. 
 	- **Return Type**: this is the data type of the value the fuction return
 	- **Function Name**: the actual name the coder called the function. it name of the function sholud align with the function.
