@@ -1,4 +1,4 @@
-## In this project, i will be solving tasks on variable, if, else statement
+# In this project, i will be solving tasks on variable, if, else statement
 - There are 4 major variable in C
 	- **character**: used as char in coding and it has 1 byte on a 64 bit operating system, it can only print a character using a single quote to encode it and has a format specifier %c. **e.g: char i = 'A';**
 	- **integer**: used as int in coding and it has 4 byte on a 64 bits operating system. it print whole number either positive or negative and has a format specifier %d. **e.g: int i = 64;**
