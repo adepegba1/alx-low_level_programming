@@ -1,4 +1,4 @@
-## In this folder, i will be doing different task to understand all concept in the programming language of C. All task are created by [@alx_africa](https://twitter.com/alx_africa)
+# In this folder, i will be doing different task to understand all concept in the programming language of C. All task are created by [@alx_africa](https://twitter.com/alx_africa)
 ## Table of content 
 - [0x00-hello_world](./0x00-hello_world)
 	- [0-preprocessor](./0x00-hello_world/0-preprocessor)
