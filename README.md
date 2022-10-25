@@ -88,7 +88,7 @@
 	- [101-print_listint_safe.c](./0x13-more_singly_linked_lists/101-print_listint_safe.c)
 	- [102-free_listint_safe.c](./0x13-more_singly_linked_lists/102-free_listint_safe.c)
 	- [103-find_loop.c](./0x13-more_singly_linked_lists/103-find_loop.c)
-	- [](./0x13-more_singly_linked_lists/)
+	- [lists.h](./0x13-more_singly_linked_lists/lists.h)
 
 ## Author
 - **Adepegba David .A.**
