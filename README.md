@@ -10,6 +10,7 @@
 	- [6-size.c](./0x00-hello_world/6-size.c)
 	- [100-intel](./0x00-hello_world/100-intel)
 	- [101-quote.c](./0x00-hello_world/101-quote.c)
+	- [README.md](./0x00-hello_world/README.md)
 - [0x01-variables_if_else_while](./0x01-variables_if_else_while)
 	- [0-positive_or_negative.c](./0x01-variables_if_else_while/0-positive_or_negative.c)
 	- [1-last_digit.c](./0x01-variables_if_else_while/1-last_digit.c)
