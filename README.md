@@ -42,7 +42,7 @@
 	- [102-fibonacci.c](./0x02-functions_nested_loops/102-fibonacci.c)
 	- [103-fibonacci.c](./0x02-functions_nested_loops/103-fibonacci.c)
 	- [104-fibonacci.c](./0x02-functions_nested_loops/104-fibonacci.c)
-	- [putchar.c](./0x02-functions_nested_loops/_putchar.c)
+	- [\_putchar.c](./0x02-functions_nested_loops/_putchar.c)
 	- [main.h](./0x02-functions_nested_loops/main.h)
 - [0x03-debugging](./0x03-debugging)
 	- [0-main.c](./0x03-debugging/0-main.c)
